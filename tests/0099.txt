@@ -1,5 +1,5 @@
-	  xmlns:example="http://www.example.org/"
-   <head profile="http://www.w3.org/1999/xhtml/vocab">
+	  {"example": "http://www.example.org/"}
+   <head>
       <title>Test 0099</title>
    </head>
    <body>
